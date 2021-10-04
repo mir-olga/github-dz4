@@ -318,17 +318,18 @@ img {
     justify-content: center;
 }
 .client-item {
-    width: 170px;
-    height: 92px;
+     border: rgba(175, 177, 184, 1) 1px solid;
 }
 .client-item + .client-item {
     margin-left: 30px;
 }
 .client-link {
+    width: 170px;
+    height: 92px;
     display: flex;
     align-items: center;
     justify-content: center;
-    border: rgba(175, 177, 184, 1) 1px solid;
+ 
 }
 .client-link:hover .client-logo,
 .client-link:focus .client-logo {
