@@ -176,6 +176,7 @@ img {
 .hero-button:focus,
 .hero-button:hover {
     cursor: pointer;
+    
 }
 /*-- Преимущества --*/
 
