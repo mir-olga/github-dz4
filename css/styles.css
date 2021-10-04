@@ -173,8 +173,8 @@ img {
     letter-spacing: 0.06em;
     color: #FFFFFF;
 }
-.hero-butten:focus,
-.hero-butten:hover {
+.hero-button:focus,
+.hero-button:hover {
     cursor: pointer;
 }
 /*-- Преимущества --*/
